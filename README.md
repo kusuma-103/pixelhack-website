@@ -80,6 +80,9 @@ This project is deployed using GitHub Pages:
 - Responsive design tested on mobile, tablet, and desktop
 - Accessible markup with proper ARIA attributes
 - Progressive enhancement approach
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
