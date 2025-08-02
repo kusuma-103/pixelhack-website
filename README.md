@@ -65,8 +65,7 @@ pixxelhack-website/
 
 This project is deployed using GitHub Pages:
 
-1. **Repository**: [GitHub Repo](https://github.com/kusuma-103/pixxelhack-website)
-
+1. **Repository**: [GitHub Repo]https://github.com/kusuma-103/pixelhack-website
 ## 🔧 Installation (Local Development)
 
 1. Clone the repository:
