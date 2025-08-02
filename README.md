@@ -8,7 +8,7 @@ This repository contains my submission for the PixxelHack Webathon 1.0 competiti
 
 ### Mandatory Features
 - ✅ Fully responsive design
-- ✅ Minimum 3 elements implemented (actually implemented 7+)
+- ✅ Minimum 3 elements implemented
 
 ### Implemented Elements
 1. **Loader Page** - Animated video loader with smooth transition
