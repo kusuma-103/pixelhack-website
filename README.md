@@ -90,6 +90,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Created by**:  Tirumalasetty Kusuma ,Vemu Lakshmi Anuhya
-
 **Date**: August 2025  
 **For**: PixxelHack Webathon 1.0
